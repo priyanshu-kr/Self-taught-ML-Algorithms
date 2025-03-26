@@ -30,3 +30,14 @@ cd self-taught-ml
 
 ## 📌 How to Use
 Each algorithms is in its own folder with:
+📂 Implementation (`.py` file)
+📂 Explanation (`.md` file with theory)
+📂 Example Usage (Notebook with real-world data)
+
+Run as example:
+```bash
+python regression/linear_regression.py
+```
+
+## 📢 Contributing
+Contributions are welcome! Feel free to open Issues or Pull Requests to add more algorithms, optimize existing ones, or improve documentation.
